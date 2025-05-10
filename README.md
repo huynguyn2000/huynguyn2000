@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://huysdejourney.blogspot.com/](https://huysdejourney.blogspot.com/)
 
-- 💬 Ask me about **Java, Spring, Apache Hadoop, Spark, Kafka, Flink**
+- 💬 Ask me about **Python, PostgreSQL, Airflow, DuckDB, Spark, Kafka, Flink and AWS, GCP ( Cloud ) **
 
 - 📫 How to reach me **nnguyenduchuy2000@gmail.com**
 

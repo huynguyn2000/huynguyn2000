@@ -3,15 +3,11 @@
 
 - 🌱 I’m currently learning **AWS, Python, PySpark**
 
-- 👨‍💻 All of my projects are available at [https://huynguyn2000.github.io/](https://huynguyn2000.github.io/)
-
 - 📝 I regularly write articles on [https://huysdejourney.blogspot.com/](https://huysdejourney.blogspot.com/)
 
 - 💬 Ask me about **Python, PostgreSQL, Airflow, DuckDB, Spark, Kafka, Flink and AWS, GCP ( Cloud ) **
 
 - 📫 How to reach me **nnguyenduchuy2000@gmail.com**
-
-- 📄 Know about my experiences [https://huynguyn2000.github.io/](https://huynguyn2000.github.io/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

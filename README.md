@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Huy Nguyen</h1>
 <h3 align="center">A passionate Data Engineer from Vietnam</h3>
 
-- 🌱 I’m currently learning **AWS, LLM, IaC**
-
-- 📝 I regularly write articles on [https://huysdejourney.blogspot.com/](https://huysdejourney.blogspot.com/)
-
+- 🌱 I’m currently learning **AWS, AI/LLM, IaC**
+  
 - 💬 Ask me about **Python, PostgreSQL, Airflow, DuckDB, Spark, Kafka, Flink and AWS, GCP ( Cloud ) **
 
 - 📫 How to reach me **nnguyenduchuy2000@gmail.com**

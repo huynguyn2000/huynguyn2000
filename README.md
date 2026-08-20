@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AWS, AI/LLM, IaC**
   
-- 💬 Ask me about **Python, PostgreSQL, Airflow, DuckDB, Spark, Kafka, Flink and AWS, GCP ( Cloud ) **
+- 💬 Ask me about **Python, PostgreSQL, Airflow, DuckDB, Spark, Kafka, Flink and AWS, GCP ( Cloud )**
 
 - 📫 How to reach me **nnguyenduchuy2000@gmail.com**
 
